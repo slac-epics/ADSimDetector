@@ -3,6 +3,9 @@
 #  Name: RELEASE_NOTES
 #
 #==============================================================
+R2.8-2.1.1      2025-06-25 Kuktae Kim
+    Update to ADCore/R3.10-1.1.2, asyn/R4.42-1.0.0
+
 R2.8-2.1.0      2024-12-06 Jeremy Lorelli
     Upgrade to ADCore/R3.10-1.1.1, asyn/R4.39-1.0.2
     Handle NDUInt64 and NDInt64 types in switch
