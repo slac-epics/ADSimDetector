@@ -4,7 +4,7 @@
 #
 #==============================================================
 R2.11-1.0.0 
-	TODO: ADSimDetector R2-11 needs ADCore >= R3-13
+	TODO: ADSimDetector R2-11 needs ADCore >= R3-12
 
 R2.8-0.0.9 2024-09-13 Marcio Donadio
         Updated to ADCore/R3.10-1.1.1
