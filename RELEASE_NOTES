@@ -3,6 +3,9 @@
 #  Name: RELEASE_NOTES
 #
 #==============================================================
+R2.8-2.1.2      2025-12-11 Jeremy Lorelli
+	Use $(ADCORE)/cfg instead of $(ADCORE)/ADCore for commonLibraryMakefile
+
 R2.8-2.1.1      2025-06-25 Kuktae Kim
     Update to ADCore/R3.10-1.1.2, asyn/R4.42-1.0.0
 
