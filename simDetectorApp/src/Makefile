@@ -19,7 +19,7 @@ LIB_SRCS += simDetector.cpp
 
 DBD += simDetectorSupport.dbd
 
-include $(ADCORE)/ADApp/commonLibraryMakefile
+include $(ADCORE)/cfg/commonLibraryMakefile
 
 #=============================
 
